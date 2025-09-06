@@ -863,3 +863,8 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 !MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/enablement/sqlite/ui/connection/drivers/package-summary.html cannot be opened.
 !SUBENTRY 1 org.eclipse.help.base 4 4 2025-09-06 19:37:02.642
 !MESSAGE Help document /org.eclipse.datatools.doc.isv/html/reference/api/org/eclipse/datatools/sqltools/sqlbuilder/input/package-summary.html cannot be opened.
+
+!ENTRY org.eclipse.core.resources 2 2 2025-09-06 19:55:23.541
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2025-09-06 19:55:23.541
+!MESSAGE The project description file (.project) for 'bla28' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
